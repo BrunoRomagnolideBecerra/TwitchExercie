@@ -36,3 +36,4 @@ A yaml file is used to allocate environment credentials.
 
 Execute "behave" at root to run tests.
 
+![](https://github.com/BrunoRomagnolideBecerra/TwitchExercie/blob/master/Twitch_test.gif)
