@@ -29,5 +29,8 @@ A yaml file is used to allocate environment credentials.
 - /pages 
   - base_page.py 
   - twitch.py
-  
+- /tools
+  - credentials.py
+  - helpers.py
+  - page_factory.py
 Execute "behave" at root to run tests.
