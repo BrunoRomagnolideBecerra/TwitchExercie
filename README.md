@@ -33,5 +33,5 @@ A yaml file is used to allocate environment credentials.
   - credentials.py
   - helpers.py
   - page_factory.py
-  - 
+
 Execute "behave" at root to run tests.
